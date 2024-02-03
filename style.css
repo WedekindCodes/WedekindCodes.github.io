@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: Arial;
+}
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+/* h2 {
+  font-family: Arial; 
+} */
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+p {
+  background-image: url('The_large_one.png');
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #002242;
+}
+
+li {
+  display: inline;
+  padding: 14px 16px;
+}
+
+li a:hover {
+  background-color: #000b14;
+}
+
+.navbar {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.bar {
+  padding: 14px 16px;
+}
+
+/* Homework reference: https://www.w3schools.com/css/css_navbar_horizontal.asp */
+.barTicToeTac {
+  padding: 14px 16px;
+}
+
+.navbarTicToeTac {
+  color: #ffffff;
+  text-decoration: none;
+}
