@@ -95,7 +95,7 @@ window.onload = function() {
 
 function update() {
   // recursive call
-  // requestAnimationFrame(update);
+  requestAnimationFrame(update);
   if (gameOver) {
     return;
   }
