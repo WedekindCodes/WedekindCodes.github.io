@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: Arial;
+  text-align: center;
 }
 
 h1 {
@@ -58,4 +59,10 @@ li a:hover {
 .navbarTicToeTac {
   color: #ffffff;
   text-decoration: none;
+}
+
+/* DINO GAME  */
+#board {
+  background-color: lightgray;
+  border-bottom: 1px solid black;
 }
